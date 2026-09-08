@@ -165,6 +165,9 @@ button {
   letter-spacing: -0.09em;
   line-height: 0.9;
 }
+.heroH1{
+  padding: 10px;
+}
 h1 em {
   color: var(--accent);
   font-family: Georgia, serif;
