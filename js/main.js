@@ -6,25 +6,25 @@ const artworks = [
     description: "Uma investigação sobre profundidade, ritmo e direção.",
   },
   {
-    title: "Como que pode",
+    title: "Como que pode - Galdino",
     category: "Ilustração · 2024",
     image: "assets/img/aquilaartz-banner-1-como-que-pode.webp",
     description:
-      "Uma cena de fantasia construída entre cor, narrativa e escala.",
+      "Uma cena de fantasia construída para capa e visualizer do single - Como que Pode - Galdino",
     layout: "wide",
   },
   {
-    title: "Orc azul",
+    title: "Orc azul - Icon",
     category: "Personagem · 2024",
     image: "assets/img/aquilaartz-blue-orc.webp",
     description: "Estudo de personagem com foco em volume, luz e expressão.",
   },
   {
-    title: "Galdino",
+    title: "Largue Mão - Galdino",
     category: "Capa · 2024",
     image: "assets/img/aquilaartz-galdno-coverart.webp",
     description:
-      "Arte de capa desenvolvida para uma narrativa visual irreverente.",
+      "Arte de capa desenvolvida para o single - Largue Mão - Galdino",
   },
   {
     title: "Retrato I",
@@ -45,17 +45,17 @@ const artworks = [
     description: "Uma pesquisa de cor aplicada ao retrato contemporâneo.",
   },
   {
-    title: "Orc — ícone",
+    title: "Orc — Icon",
     category: "Design de personagem · 2024",
     image: "assets/img/aquilaartz-or-icon.webp",
     description:
       "Variação de personagem pensada para uma linguagem mais gráfica.",
   },
   {
-    title: "Orc em linha",
+    title: "Orc Portrait Timelapse",
     category: "Animação · 2024",
     image: "assets/img/aquilaartz-icon-orc-gif.gif",
-    description: "Estudo animado de traço e silhueta.",
+    description: "Etapas do processo de criação do retrato.",
   },
 ];
 const artGrid = document.querySelector("#art-grid");
